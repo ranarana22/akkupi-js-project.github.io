@@ -18,59 +18,59 @@ main {
   );
 }
 h1 {
-  font-size: 45px;
-  letter-spacing: 1.8px;
-  margin-bottom: 40px;
+  font-size: 2.8rem;
+  letter-spacing: 0.12rem;
+  margin-bottom: 2.5rem;
   color: antiquewhite;
 }
 h1 .dev {
   color: #ff7200;
-  font-size: 50px;
-  letter-spacing: 2.5px;
-  line-height: 80px;
+  font-size: 3.125rem;
+  letter-spacing: 0.16rem;
+  line-height: 5rem;
 }
 h2 {
-  letter-spacing: 4px;
-  font-size: 22px;
+  letter-spacing: 0.25rem;
+  font-size: 1.375rem;
   text-align: center;
   color: aliceblue;
 }
 .creator {
-  font-size: 14px;
-  padding-left: 250px;
+  font-size: 0.875rem;
+  padding-left: 8rem;
 }
 .clock {
   display: flex;
 }
 .clock div {
-  margin: 5px;
+  margin: 0.313rem;
   position: relative;
 }
 .clock span {
-  width: 100px;
-  height: 80px;
+  width: 6.25rem;
+  height: 5rem;
   background: #660000;
   opacity: 0.8;
   color: white;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 50px;
+  font-size: 3.125rem;
   text-shadow: 2px 2px 4px, rgba(0, 0, 0, 0.3);
 }
 .clock .text {
-  height: 30px;
-  font-size: 10px;
+  height: 1.875rem;
+  font-size: 0.625rem;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 0.125rem;
   background: #254636;
   opacity: 0.6;
 }
 .clock #ampm {
   bottom: 0;
   position: absolute;
-  width: 60px;
-  height: 30px;
-  font-size: 20px;
+  width: 3.75rem;
+  height: 1.875rem;
+  font-size: 1.25rem;
   background: #254636;
 }
